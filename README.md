@@ -1,5 +1,5 @@
 # hello-world-examen
-Examen segunda evaluacion
+Examen segunda evaluacion - readme editado
 
 # CREANDO REPOSITORIO
   - Nos dirigimos a GITHUB
