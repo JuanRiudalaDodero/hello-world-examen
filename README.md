@@ -66,9 +66,15 @@ Examen segunda evaluacion - readme editado
 <img src="img/readme5.png"/>
 
 # Pull
-
+  - Nos dirigimos a la pagina New pull request.
+  - Seleccionamos New pull request.
+  - Indicamos que es desde readme-edit a main.
 <br>
 <img src="img/pull1.png"/>
+
+  - Miras si hay conflicto.
+  - Si hay conflicto lo areglas manualmente.
+  - Haces clik en create a pull request.
 <br>
 <img src="img/pull2.png"/>
 <br>
