@@ -65,6 +65,20 @@ Examen segunda evaluacion - readme editado
 <br>
 <img src="img/readme5.png"/>
 
+# Pull
 
+<br>
+<img src="img/pull1.png"/>
+<br>
+<img src="img/pull2.png"/>
+<br>
+<img src="img/pull3.png"/>
+
+# Delete
+
+<br>
+<img src="img/delete1.png"/>
+<br>
+<img src="img/delete2.png"/>
 
 
