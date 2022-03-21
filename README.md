@@ -1,7 +1,7 @@
 # hello-world-examen
 Examen segunda evaluacion
 
-#CREANDO REPOSITORIO
+# CREANDO REPOSITORIO
 
 
 
