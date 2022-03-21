@@ -40,7 +40,22 @@ Examen segunda evaluacion
 
 # CREANDO RAMA
 
+  - Nos dirigimos a nuestro repositorio remoto.
+  - En el repositorio remoto seleccionamos donde pone main.
+  - Alli escribimos reame-edits
+  - Seleccionamos la opcion de crear una rama desde el main.
+<br>
+<img src="img/readme1.png"/>
+  - 
 
+<br>
+<img src="img/Añadido3.png"/>
+<br>
+<img src="img/Añadido3.png"/>
+<br>
+<img src="img/Añadido3.png"/>
+<br>
+<img src="img/Añadido3.png"/>
 
 
 
