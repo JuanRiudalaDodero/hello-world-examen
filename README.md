@@ -42,20 +42,29 @@ Examen segunda evaluacion
 
   - Nos dirigimos a nuestro repositorio remoto.
   - En el repositorio remoto seleccionamos donde pone main.
-  - Alli escribimos reame-edits
+  - Alli escribimos reame-edits.
   - Seleccionamos la opcion de crear una rama desde el main.
 <br>
 <img src="img/readme1.png"/>
-  - 
 
+  - Nos dirigimos a la nueva rama creada.
 <br>
 <img src="img/readme2.png"/>
+
+  - Nos dirigimos al Readme.md dentro de la rama readme-edits.
+  - Dentro del readme hacemos cambios.
+  - Una vez hechos los cambiios hacemos un commit.
 <br>
 <img src="img/readme3.png"/>
+
+  - Creamos uma pull request desde main de readme-edits.
 <br>
 <img src="img/readme4.png"/>
+
+  - Hacemos un marge paraconfirmar los cambios.
 <br>
 <img src="img/readme5.png"/>
+
 
 
 
