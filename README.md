@@ -49,13 +49,13 @@ Examen segunda evaluacion
   - 
 
 <br>
-<img src="img/Añadido3.png"/>
+<img src="img/readme2.png"/>
 <br>
-<img src="img/Añadido3.png"/>
+<img src="img/readme3.png"/>
 <br>
-<img src="img/Añadido3.png"/>
+<img src="img/readme4.png"/>
 <br>
-<img src="img/Añadido3.png"/>
+<img src="img/readme5.png"/>
 
 
 
