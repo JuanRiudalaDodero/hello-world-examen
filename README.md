@@ -21,8 +21,8 @@ Examen segunda evaluacion
 
 # AÑADIENDO ARCHIVOS
 
-
-
+  - Creamos y nos dirigimos una rama llamada features mediante git checkout -b "features".
+  - Creamos los archivos story.txt story-edit.txt y story-edit-reviwed.txt mediante el comando touch. 
 <br>
 <img src="img/Añadido1.png"/>
 <br>
