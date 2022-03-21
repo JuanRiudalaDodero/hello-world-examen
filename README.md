@@ -77,13 +77,19 @@ Examen segunda evaluacion - readme editado
   - Haces clik en create a pull request.
 <br>
 <img src="img/pull2.png"/>
+
+ - Seguido haces un marge para asegusrar los cambios.
 <br>
 <img src="img/pull3.png"/>
 
 # Delete
 
+  - Te diriges a las ramas
+  - Alli te apareceran las ramas main y readme edits.
 <br>
 <img src="img/delete1.png"/>
+  - Al lado de readme edits hay un icono de un cubo de basura.
+  - Pulsas el cubo de basura y estaria borrada.
 <br>
 <img src="img/delete2.png"/>
 
